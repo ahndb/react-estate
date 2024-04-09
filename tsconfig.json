@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src", // baseurl을 지정하면 절대경로로 나옴
     "target": "es5",
     "lib": [
       "dom",
